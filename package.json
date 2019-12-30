@@ -1,0 +1,25 @@
+{
+  "name": "robotuber",
+  "version": "1.0.0",
+  "description": "robotuber",
+  "main": "index.js",
+  "scripts": {
+    "test": "robot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gvieirabriel/RoboTuber.git"
+  },
+  "keywords": [
+    "roboto"
+  ],
+  "author": "gvieirabriel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gvieirabriel/RoboTuber/issues"
+  },
+  "homepage": "https://github.com/Gvieirabriel/RoboTuber#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
