@@ -1,5 +1,7 @@
 ## RoboTuber
 
+Projeto de robô para editar e publicar vídeos de maneira automatizada.
+
 * Git (https://git-scm.com/)
 * Node (https://nodejs.org)
 
