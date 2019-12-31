@@ -7,6 +7,7 @@ const robots = {
 async function start() {
 
     const sourceContent = {
+        maximumSentences: 10,
     }
 
     sourceContent.searchTerm = askAndReturnSearchTerm()
